@@ -4,3 +4,5 @@
 - 📫 Você pôde me encontrar diego.ribeiro.rocha@escola.pr.gov.br
 
 Cleitao-mecanico👍
+  
+<irg src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
